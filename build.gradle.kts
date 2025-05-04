@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") version "2.1.10"
 }
 
-group = "dev.cat2koban.competitive-programming"
+group = "dev.cat2koban.leetcode-in-kotlin"
 version = "1.0-SNAPSHOT"
 
 repositories {

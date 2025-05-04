@@ -1,4 +1,4 @@
-package leetcode.g0001_g0100
+package g0001_g0100
 
 import g0001_g0100.s0001_two_sum.Solution
 import io.kotest.matchers.shouldBe
